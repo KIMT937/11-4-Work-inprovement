@@ -1,6 +1,8 @@
 {
   "name": "막내 업무 개선 앱 PRD",
-  "description": "막내 직원의 잔업무를 줄이고 업무 효율을 극대화하기 위한 구글 시트 연동 웹앱 1장 PRD",
+  "description": "막내 직원의 잔업무를 줄이고 업무 효율을 극대화하기 위한 웹앱 1장 PRD",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
